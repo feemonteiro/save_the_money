@@ -1,2 +1,2 @@
 # save_the_money
-Game developed in master module
+Jogo desenvolvido na disciplina de Desenolvimento de Jogos do PPGTI - UFRN
